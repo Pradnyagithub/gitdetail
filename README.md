@@ -1,0 +1,2 @@
+# gitdetail
+Git Practice
